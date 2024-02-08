@@ -69,13 +69,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_bs_ad_calendar:
-    dependency: "direct main"
-    description:
-      path: "package/flutter_bs_ad_calendar"
-      relative: true
-    source: path
-    version: "1.0.4"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -89,14 +82,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  intl:
-    dependency: transitive
-    description:
-      name: intl
-      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.18.1"
   lints:
     dependency: transitive
     description:
@@ -216,4 +201,3 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.5 <4.0.0"
-  flutter: ">=1.17.0"

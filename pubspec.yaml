@@ -33,8 +33,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  flutter_bs_ad_calendar:
-    path: package/flutter_bs_ad_calendar
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
