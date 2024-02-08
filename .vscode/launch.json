@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "my_calendar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "my_calendar (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_calendar (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "clean_nepali_calendar",
+            "cwd": "package/clean_nepali_calendar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "clean_nepali_calendar (profile mode)",
+            "cwd": "package/clean_nepali_calendar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "clean_nepali_calendar (release mode)",
+            "cwd": "package/clean_nepali_calendar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_bs_ad_calendar",
+            "cwd": "package/flutter_bs_ad_calendar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_bs_ad_calendar (profile mode)",
+            "cwd": "package/flutter_bs_ad_calendar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_bs_ad_calendar (release mode)",
+            "cwd": "package/flutter_bs_ad_calendar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
